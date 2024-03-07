@@ -1,6 +1,6 @@
 # Hacker News Website
 
-<img src="./src/img/logo.png" alt="Hacker News Logo" width="100" height="100">
+<img src="./src/img/logo.png" alt="Hacker News Logo" width="300" height="300">
 
 This project is a website that displays the latest news from Hacker News using the official Hacker News API.
 
