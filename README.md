@@ -29,7 +29,7 @@ This project is a website that displays the latest news from Hacker News using t
 
 ## Credits
 
-This project was created by [Your Name].
+This project was created by [hafsa-dreamyland].
 
 ## License
 
