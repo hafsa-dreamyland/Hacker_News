@@ -8,7 +8,6 @@ This project is a website that displays the latest news from Hacker News using t
 
 - Displays the latest news from Hacker News.
 - Loads 10 news at a time with a "Load More" button.
-- Light and dark theme with a simple toggle.
 - Each news is displayed in a separate container with title, site, date, number of comments, and author.
 
 ## Technologies Used
