@@ -23,7 +23,7 @@ This project is a website that displays the latest news from Hacker News using t
 1. Clone this repository.
 2. Navigate into the project directory.
 3. Run `npm install` to install dependencies.
-4. Run `npm run build` to build the project using Webpack.
+4. Run `npm run` and then `webpack` to build the project using Webpack.
 5. Open the `index.html` file in your web browser to view the website.
 6. To customize or modify the project, you can edit the HTML, CSS, and JavaScript files in the `src` directory.
 
